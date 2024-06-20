@@ -1,0 +1,6 @@
+streamlit
+websocket-client
+opencv-python-headless
+numpy
+Pillow
+nest_asyncio
